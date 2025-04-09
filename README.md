@@ -1,6 +1,9 @@
 # Oiiai Cat
 
 一個互動式的貓咪裝置，當有人靠近時會播放聲音並旋轉。
+![IMG_6395](https://github.com/user-attachments/assets/3e7aedf7-5704-477e-8ee5-a2015b82d16d)
+![IMG_6394](https://github.com/user-attachments/assets/5ef4d071-1be4-4a01-a70e-5784b95faca6)
+
 
 ## 硬體需求
 
